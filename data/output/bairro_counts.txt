@@ -1,0 +1,748 @@
+Jardim Dimas Filho: 1
+Granja Florestal: 1
+Parque Paraíso: 1
+Parque Leopoldina: 1
+Recreio Itapoã: 1
+Unamar (Tamoios): 1
+Panorama: 1
+Quinta Mariana: 1
+Condado de Maricá: 1
+Jardim Passa Vinte: 1
+Parque Recreio Dom Pedro II (Guia de Pacobaíba): 1
+Guaratiba (Ponta Negra): 1
+Parque Santa Lúcia: 1
+Alto da Rua XV: 1
+Jardim Paraíba: 1
+Camará: 1
+Itapeba: 1
+Vila Scintila: 1
+Ponta do Ambrósio: 1
+Imbetiba: 1
+Parque Esplanada II: 1
+Itaipava: 1
+Vila Iguaçuana: 1
+São Geraldo: 1
+Rosa dos Ventos: 1
+Jardim Nova Era: 1
+Alterosas: 1
+Pequi: 1
+Parque do Laranjal: 1
+Vila Jurandir: 1
+Jardim das Oliveiras: 1
+Vila Guarita: 1
+Maguari: 1
+Chácaras de Inoã (Inoã): 1
+Água Fria: 1
+São Pedro: 1
+Parque da Gávea: 1
+Jardim Maria do Carmo: 1
+Vila Amélia: 1
+Nova Esperança: 1
+Jardim Arco Íris: 1
+Jardim Cristina: 1
+Operário: 1
+São Simão: 1
+Jardim Amapa: 1
+Jardim Queimados: 1
+Parque Estrela: 1
+Jóquei Clube: 1
+Jardim São Paulo(Zona Norte): 1
+Val-de-Cães: 1
+Pernambués: 1
+Parque Flamboyant: 1
+Parque São Bento: 1
+Prq: 1
+Vila Bernadete: 1
+Jardim Itacolomi: 1
+Parque Corrientes: 1
+Emaús: 1
+Cidade Satélite Santa Bárbara: 1
+Sossego: 1
+Jardim Esmeralda: 1
+Porto do Carro: 1
+Jardim dos Estados: 1
+Carlos Sampaio: 1
+Riviera Fluminense: 1
+Tabuba: 1
+Capim Macio: 1
+Conjunto Habitacional Sion II: 1
+Anaia Pequeno: 1
+Jardim Sumaré: 1
+Vila Nova (Suruí): 1
+Vila Buenos Aires: 1
+Vila Operária: 1
+Santa Rita do Bracuí (Cunhambebe): 1
+Jardim do Bosque: 1
+Samambaia Sul (Samambaia): 1
+Parque Cruz Alta: 1
+Várzea: 1
+Jardim Alegria: 1
+Loteamento Jardim América: 1
+Jardim Paulistano (Zona Norte): 1
+Jardim São Sebastião: 1
+Progresso: 1
+Jardim Mar: 1
+Ermitage: 1
+Recreio: 1
+Vila Brasil (Manilha): 1
+Parque Samira: 1
+Jardim Rosário: 1
+Jurunas: 1
+Minas Brasil: 1
+Jardim Cachoeira: 1
+Igapó: 1
+Parque das Flores: 1
+Ingleses do Rio Vermelho: 1
+Parque Estrela (Vila Inhomirim): 1
+Chácaras Arcampo: 1
+Glaucia: 1
+Vila Galvão: 1
+Boa Viagem: 1
+Jardim São Paulo: 1
+Viga: 1
+Setor de Habitações Individuais Sul: 1
+Alecrim: 1
+Sitio Novo Oriente: 1
+Canto do Rio: 1
+Parque Valdairosa: 1
+Verão Vermelho (Tamoios): 1
+Vila Ouro Preto: 1
+Massaranduba: 1
+Doutor Laerte Laender: 1
+Vila Maria (Bonfim): 1
+Largo da Batalha: 1
+Itapuã: 1
+Nova Piam: 1
+Cangulo: 1
+Jardim da Paz (Guia de Pacobaíba): 1
+Vila Meriti: 1
+Vila Japeri: 1
+São Judas Tadeu: 1
+Ano Bom: 1
+Pauline: 1
+Nossa Senhora do Carmo: 1
+Nova Belém: 1
+Vila Gabriela (Manilha): 1
+Floresta: 1
+Parque União: 1
+Tiradentes: 1
+Rio Centro: 1
+São Bernardo: 1
+São Lourenço (Guia de Pacobaíba): 1
+Vila Guarani (Z Sul): 1
+Parque Saudade: 1
+Praia do Canto: 1
+Cohab Nova: 1
+Vila Sueli: 1
+Campinas: 1
+Mantiquira: 1
+Aeroporto: 1
+Sitio Retiro Feliz: 1
+Coelho: 1
+Vila Saudade: 1
+Cidade Júlia: 1
+Sacramento: 1
+Parque Sayonara (Vila Inhomirim): 1
+Residencial Santa Paula: 1
+Vila Recreio (Vila Inhomirim): 1
+Califórnia: 1
+Vila Geny: 1
+Serra Verde (Venda Nova): 1
+Planalto Paulista: 1
+Vila Palmeiras: 1
+Parque Analândia: 1
+Vila Curuçá: 1
+Conjunto Santa Maria: 1
+Parque Luiz Gonzaga: 1
+Jardim Cidade do Aço: 1
+Parque Xerém: 1
+Cubango: 1
+Jardim Peró: 1
+Várzea das Moças: 1
+Vila Santa Teresa: 1
+Jardim Íris: 1
+Parque Felicidade: 1
+Brasilândia: 1
+Praia de Itaipuaçu (Itaipuaçu): 1
+Mosela: 1
+Mazomba: 1
+Alphaville Industrial: 1
+Vila Netinho Prado: 1
+Novo Eldorado: 1
+Charitas: 1
+Setor Oeste: 1
+Guará II: 1
+Extensão Serramar: 1
+Fluminense: 1
+Iucas: 1
+Centro (Vila Inhomirim): 1
+Jardim Pitoresco: 1
+Jardim Palmares: 1
+Maria José: 1
+Nogueira: 1
+Jardim Esperança: 1
+Mariano Procópio: 1
+Caonze: 1
+Vila Santa Alice: 1
+Jardim Veneza: 1
+Nova Alegria: 1
+Pacheco: 1
+Tomba: 1
+Parque Ambaí: 1
+Chaperó: 1
+Vila Olímpia: 1
+São Domingos: 1
+Vila São João Batista: 1
+Xavantes: 1
+Trezentos: 1
+Pedro do Rio: 1
+Parque Residencial União: 1
+Guaxindiba: 1
+Parque Nova Esperança: 1
+Extensão do Bosque: 1
+Bom Retiro: 1
+Conjunto José Vallim de Melo: 1
+Auxiliadora: 1
+Guará I: 1
+Cidade Jardim Parque Estoril: 1
+Engenho Velho: 1
+Vila Herminia Maia: 1
+Ariramba (Mosqueiro): 1
+Vila Emil: 1
+Mutuá: 1
+Bosque da Saúde: 1
+Nossa Senhora Aparecida: 1
+São Miguel: 1
+Santana: 1
+Alcântara: 1
+Morro do Gama: 1
+Frei Fabiano: 1
+Chapada: 1
+Centro Administrativo da Bahia: 1
+Cordeirinho (Ponta Negra): 1
+Azenha: 1
+Parque Marilandia: 1
+Cachoeira Grande (Rio do Ouro): 1
+Fonte Carioca: 1
+Ponto Novo: 1
+Bengui: 1
+Vila Colúmbia: 1
+Maria Paula: 1
+Florestinha I (Tamoios): 1
+Alto da Riviera: 1
+Badu: 1
+Sítio dos Gansos: 1
+Boca da Barra: 1
+Riacho Fundo I: 1
+Ogiva: 1
+Autódromo: 1
+Parque Mambucaba (Mambucaba): 1
+Muriqui: 1
+Santa Mônica: 1
+Carmari: 1
+Barbuda: 1
+Flores: 1
+Japuíba (Cunhambebe): 1
+Loteamento Bondarovshy: 1
+Sapê: 1
+Manassu: 1
+Parque São Pedro de Alcantara: 1
+Vila Pacheco da Rocha: 1
+Caputera I: 1
+Fazenda Caxias: 1
+Santa Terezinha: 1
+Parque Jordão: 1
+Laranjal: 1
+Vila Verde: 1
+Parada Angélica: 1
+Indianópolis: 1
+Vila José: 1
+Vila Formosa: 1
+Tirirical: 1
+Cônego: 1
+Baia de Guanabara: 1
+Velame: 1
+Mangueirão: 1
+Parque Vitória: 1
+Retiro: 1
+Santa Luzia: 1
+Jardim Imperial: 1
+Parque Roseiral: 1
+Pau Grande (Vila Inhomirim): 1
+Vila Nova: 1
+Triangulo: 1
+Jardim Marilândia: 1
+Jardim Vila Nova: 1
+Parque A Equitativa: 1
+Citrópolis: 1
+Jardim Maracanã: 1
+Tinguazinho: 1
+Sion: 1
+Cidade Continental-Setor África: 1
+Cidade Olímpica: 1
+Área Rural de Cabo Frio: 1
+Vila Vênus: 1
+Nova Marília: 1
+Jardim Atlântico Oeste (Itaipuaçu): 1
+Vila Constança de Calvos: 1
+Jardim Morada do Sol: 1
+Juscelino: 1
+Santa Catarina: 1
+Condomínio Residencial Santa Maria (Santa Maria): 1
+Pe Pequeno: 1
+Parque Nápolis B: 1
+Nova América: 1
+Parque dos Camargos: 1
+Guacuri: 1
+Sete Pontes: 1
+Vinhateiro: 1
+Cajazeiras: 1
+Parque Novo Jockey: 1
+Jaguaribe: 1
+Jardim Canaã: 1
+Três Corações: 1
+Jardim Atlântico Central (Itaipuaçu): 1
+Conjunto Habitacional José Giordano: 1
+Paranhos (Vila Inhomirim): 1
+Vila Canaan: 1
+Chácara São José: 1
+Jardim Silvana: 1
+Jardim Nazareno (Vila Inhomirim): 1
+Aeroporto Velho: 1
+Telégrafo Sem Fio: 1
+Boa Ventura: 1
+Maringá: 1
+Empresarial Paineira (Jordanésia): 1
+Jardim Tupiara: 1
+Vila Maia: 1
+Caçador: 1
+São Lourenço: 1
+São João Clímaco: 1
+Jacutinga: 1
+Praia do Anil (Guia de Pacobaíba): 1
+Colina de Laranjeiras: 1
+Saudade: 1
+Parque São Judas Tadeu: 1
+Ampliação: 1
+Curió-Utinga: 1
+Aurora: 1
+Luz: 1
+Hernani Sá: 1
+Vila Fátima: 1
+Uruguai: 1
+Cidade Senhor do Bonfim: 1
+Feitosa: 1
+Parque Aurora (Itambi): 1
+Coroado: 1
+Alvorada: 1
+Tingui: 1
+Vila Brasília: 1
+Ouro Verde: 1
+Campo Novo: 1
+Ambaí: 1
+Plano Diretor Norte: 1
+Parque Martinho: 1
+Monsuaba: 1
+Três Córregos: 1
+Kátia (Justinópolis): 1
+Muquiçaba: 1
+Jardim Corumbá: 1
+Parque Residencial Guadalajara: 1
+Barracão: 1
+Campinho da Serra I: 1
+Santa Isabel: 1
+Vila São Judas Tadeu: 1
+Periperi: 1
+Cidade Industrial Satélite de São Paulo: 1
+Jordanésia (Jordanésia): 1
+Liberdade: 1
+Cidade Horácio (Vila Inhomirim): 1
+Marambaia: 1
+Piabetá (Inhomirim): 2
+Alvarez: 2
+Posse: 2
+Jardim García: 2
+Rodilândia: 2
+Trindade: 2
+Asa Norte: 2
+Vila Mariana: 2
+Vila Zulmira: 2
+Jardim Santa Rita: 2
+Piranema: 2
+Joaquim de Oliveira: 2
+Kennedy: 2
+Favela Rio das Pedras: 2
+Vale das Pedrinhas: 2
+Porto do Rosa: 2
+Dois Irmãos: 2
+Monte Serrat: 2
+Jardins: 2
+Piam: 2
+Parque Paulicéia: 2
+Boaçu: 2
+Quitandinha: 2
+Monjolos: 2
+Caioaba: 2
+Cerâmica: 2
+Tinguá: 2
+Almerinda: 2
+Araçatiba: 2
+Ponto Chic: 2
+Nova Aurora: 2
+Aliança: 2
+Campos Elíseos: 2
+Parque Panorama: 2
+Granja Rosalina: 2
+Santa Sofia: 2
+BNH: 2
+Gramacho: 2
+Parque Amorim: 2
+Parque Eldorado: 2
+São Jorge: 2
+Jardim Pernambuco: 2
+Jardim Alzira: 2
+Edson Passos: 2
+Parque Juriti: 2
+Inoã (Inoã): 2
+Monte Castelo: 2
+Tribobó: 2
+Jardim Miramar: 2
+Moquetá: 2
+Jardim Camburi: 2
+Santa Tereza: 2
+Wona: 2
+Alto Uruguai: 2
+Vila Lage: 2
+Parque Primavera: 2
+Vila Carvalho (Vila Inhomirim): 2
+Orindi: 2
+São Francisco de Assis: 2
+Grumari: 2
+Valverde: 2
+Vila Bandeirantes: 2
+São Bento: 2
+São Roque: 2
+Parque Fluminense: 2
+Colubande: 2
+Vila Margarida: 2
+Itimirim: 2
+Jardim Mariléa: 2
+Farrula: 2
+Vila Guimarães: 2
+Das Graças: 2
+Vila Camarim: 2
+Parque Laguna e Dourados: 2
+Santo Amaro: 2
+Riachão: 2
+Parque Regina: 2
+Campo Lindo: 2
+Jardim Jurema: 2
+Vila Rosário: 2
+Neves (Neves): 2
+Porto Novo: 2
+Vila Esperança (Vila Inhomirim): 2
+Estrela do Norte: 2
+Aquarius (Tamoios): 2
+Parque Centenário: 3
+Aero Clube: 3
+Jardim Anhangá: 3
+Santa Bárbara: 3
+Vila Urussaí: 3
+Grande Rio: 3
+Nova Cidade: 3
+São Vicente: 3
+Parque Senhor do Bonfim: 3
+Vila Central: 3
+Caramujo: 3
+Amapá: 3
+Ouro Preto: 3
+Palhada: 3
+Santo Elias: 3
+Barreto: 3
+Jardim Olavo Bilac: 3
+Bom Pastor: 3
+Gradim: 3
+Graças: 3
+Jardim Ideal: 3
+Venda Velha: 3
+Jardim Paraíso: 3
+São José: 3
+Santo Antônio: 3
+Parque Alian: 3
+Parque Colonial: 3
+Alto da Posse: 3
+Bela Vista: 3
+Prata: 3
+Santa Rita: 3
+Jardim Caiçara: 3
+Boa Esperança: 3
+Parque Engenheiro Pedreira: 3
+Vila de Cava: 3
+Nova Califórnia (Tamoios): 3
+Barra Funda: 3
+Amendoeira: 3
+Ipiranga: 3
+Jardim Alvorada: 3
+Parque Moderno: 3
+Parque Uruguaiana: 3
+Vila Santa Cruz: 3
+Parque das Missões: 3
+Engenheiro Pedreira: 3
+Imbariê: 3
+Santo Antônio da Prata: 3
+Engenho: 4
+Jardim Catarina: 4
+Itaúna: 4
+Vila Tiradentes: 4
+Curral Falso: 4
+Boa Vista: 4
+Marapicu: 4
+Parque Araruama: 4
+Engenho Pequeno: 4
+Brisa Mar: 4
+Coréia: 4
+Campo Alegre: 4
+Carolina: 4
+Miguel Couto: 4
+Pilar: 4
+Banco de Areia: 4
+Santa Amélia: 4
+Vila Heliopolis: 4
+Chácaras Rio-Petrópolis: 4
+Parque Beira Mar: 4
+Paiol de Pólvora: 4
+Parque Lafaiete: 4
+Areia Branca: 4
+Malhapão: 4
+Cruzeiro do Sul: 4
+Saracuruna: 4
+Joá: 4
+Inconfidência: 4
+Rocha Sobrinho: 4
+Parque Tietê: 4
+Itaipu: 4
+Parque Barreto: 4
+Parque Duque: 5
+Vila Sarapuí: 5
+Vila Norma: 5
+Doutor Laureano: 5
+Heliópolis: 5
+Paraíso: 5
+Jardim Leal: 5
+Piratininga: 5
+Cosmorama: 5
+Parque Paulista: 5
+Nossa Senhora de Fátima: 5
+Parque Novo Rio: 5
+Andrade Araujo: 5
+Agostinho Porto: 5
+Dumas: 6
+Shangri-lá: 6
+Olavo Bilac: 6
+Jardim Guandu: 6
+Jardim Metrópole: 6
+Prados Verdes: 6
+Ingá: 6
+Barro Vermelho: 7
+Nova Campinas: 7
+Chatuba: 7
+Vila São Sebastião: 7
+Vila Itamarati: 7
+Santa Lúcia: 7
+Vale do Ipê: 7
+Vila Centenário: 7
+Jardim Primavera: 7
+Recreio das Bandeirantes: 7
+Vila Rosali: 7
+Jardim Gramacho: 8
+Queimados: 8
+Cabral: 8
+Olinda: 8
+Parque São Nicolau: 8
+Santa Rosa: 8
+Cabuçu: 8
+Vila São Luís: 9
+Jardim José Bonifácio: 9
+Jardim Meriti: 9
+Tomazinho: 9
+Vila São João: 9
+Austin: 9
+Icaraí: 9
+Engenho do Porto: 9
+Lagoinha: 10
+Araújo de Cosmos: 10
+Itacolomi: 10
+Cabuis: 10
+Comendador Soares: 10
+Vila Santo Antônio: 10
+Vilar dos Teles: 11
+Vila Leopoldina: 12
+Éden: 12
+Jardim Vinte e Cinco de Agosto: 12
+Fonseca: 13
+Engenheiro Belford: 13
+Guarabu: 13
+Campo dos Afonsos: 13
+São Mateus: 14
+Dendê: 15
+Nossa Senhora das Graças: 18
+Coelho da Rocha: 18
+Km 32: 18
+Vasco da Gama: 23
+Pitangueiras: 24
+Bras de Pina: 26
+Cidade Universitária: 27
+Tubiacanga: 36
+Urca: 43
+Saúde: 45
+Moneró: 54
+Cosme Velho: 57
+Zumbi: 58
+Ribeira: 62
+Lagoa: 69
+São Conrado: 69
+Parque Colúmbia: 71
+Barra de Guaratiba: 81
+Paquetá: 87
+Vila Militar: 88
+Humaitá: 88
+Praia da Bandeira: 92
+Jacarezinho: 95
+Maria da Graça: 97
+Jardim Botânico: 110
+Engenheiro Leal: 115
+Água Santa: 115
+Cavalcanti: 119
+Turiaçu: 125
+São Francisco Xavier: 130
+Camorim: 134
+Leme: 141
+Glória: 144
+Ipanema: 155
+Vaz lobo: 171
+Leblon: 172
+Manguinhos: 179
+Cocotá: 180
+Praça da Bandeira: 184
+Abolição: 195
+Cidade Nova: 200
+Cacuia: 202
+Vila Kosmos: 204
+Encantado: 216
+Riachuelo: 222
+Alto da Boa Vista: 223
+Laranjeiras: 224
+Vidigal: 224
+Gamboa: 224
+Vista Alegre: 226
+Braz de Pina: 233
+Higienópolis: 233
+Catete: 242
+Deodoro: 244
+Sampaio: 257
+Bancários: 259
+Rocinha: 261
+Jardim Guanabara: 265
+Santo Cristo: 265
+Campinho: 268
+Maracanã: 270
+Vargem Grande: 277
+Rocha: 284
+Todos os Santos: 301
+Portuguesa: 308
+Freguesia (Ilha do Governador): 310
+Pechincha: 313
+Flamengo: 319
+Barros Filho: 319
+Vicente de carvalho: 336
+Jardim Sulacap: 338
+Mangueira: 345
+Catumbi: 349
+Vila da Penha: 364
+Recreio dos Bandeirantes: 372
+Parque Anchieta: 382
+Quintino Bocaiuva: 382
+Galeão: 384
+Andaraí: 386
+Honório Gurgel: 402
+Lins de Vasconcelos: 404
+Pedra de guaratiba: 406
+Freguesia (Jacarepagua): 408
+Tomás Coelho: 409
+Parada de Lucas: 409
+Jardim América: 413
+Magalhães bastos: 414
+Oswaldo Cruz: 421
+Vila Valqueire: 424
+Ricardo de Albuquerque: 431
+Jardim Carioca: 434
+Grajaú: 457
+Engenho da Rainha: 471
+Del castilho: 484
+Estácio: 493
+Vigário Geral: 496
+Senador Vasconcelos: 498
+Tauá: 510
+Vargem Pequena: 515
+Bento ribeiro: 515
+Cascadura: 518
+Cachambi: 529
+Pilares: 534
+Acari: 542
+Costa barros: 542
+Colégio: 549
+Rocha miranda: 554
+Tanque: 555
+Jacaré: 558
+Santa Teresa: 608
+Coelho Neto: 662
+Caju: 674
+Piedade: 701
+Curicica: 704
+Cordovil: 719
+Botafogo: 742
+Penha Circular: 750
+Marechal hermes: 753
+Engenho novo: 753
+São Cristovão: 766
+Guadalupe: 787
+Benfica: 825
+Gávea: 838
+Cidade de Deus: 843
+Gardênia Azul: 844
+Méier: 848
+Madureira: 850
+Engenho de dentro: 852
+Rio Comprido: 860
+Padre Miguel: 874
+Barra da Tijuca: 889
+Vila isabel: 895
+Praça Seca: 900
+Olaria: 918
+Outro: 965
+Santíssimo: 982
+Anchieta: 1005
+Inhaúma: 1027
+Sepetiba: 1030
+Maré: 1082
+Penha: 1115
+Bonsucesso: 1129
+Itanhangá: 1136
+Centro: 1183
+Pavuna: 1323
+Copacabana: 1323
+Taquara: 1343
+Inhoaíba: 1357
+Cosmos: 1378
+Senador Camará: 1446
+Ramos: 1510
+Irajá: 1629
+Anil: 1727
+Tijuca: 1734
+Jacarepaguá: 1889
+Paciência: 2116
+Guaratiba: 2856
+Realengo: 3382
+Bangu: 3963
+Santa cruz: 4297
+Campo Grande: 5873
