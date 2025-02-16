@@ -173,5 +173,5 @@ cython_debug/
 
 # ----- Personalizado -----
 !**/.gitkeep
-data/*
+**/*.csv
 organizacao/~$0. descricao_de_campos.xlsx
